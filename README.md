@@ -1,2 +1,3 @@
 # javascript-calculator
-fcc frontend project
+
+simple javascript calculator using react.js
