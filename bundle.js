@@ -242,7 +242,7 @@
                     }, " ", "Designed and Coded By ", React.createElement("br", null), React.createElement("a", {
                         href: "https://github.com/NavalNavigator",
                         target: "_blank"
-                    }, "Eyob Geletu")))
+                    }, "NavalNavigator")))
                 }
             }]), Calculator
         }(React.Component),
